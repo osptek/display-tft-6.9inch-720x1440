@@ -1,0 +1,10 @@
+id: YDP690TE001-V1
+category: displays
+size: "6.9"
+panel: tft
+resolution: 720x1440
+interface: [mipi]
+driver: ST7121P
+touch: ST7121P
+outline: 80.28 x 162.34 x 2.13 mm
+active_area: 78.0192 x 156.0384 mm
