@@ -44,6 +44,7 @@
 | Datasheet | [`ST7121P_Datasheet_V1.1.pdf`](./datasheets/ST7121P_Datasheet_V1.1.pdf) |
 | Datasheet | [`YDP690TE001-V1.pdf`](./datasheets/YDP690TE001-V1.pdf) |
 | CAD file | [`YDP690TE001-V1.dwg`](./cad/YDP690TE001-V1.dwg) |
+| Adapter materials | [`未标题-1.png`](./adapter/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png) |
 
 ## Repository layout
 
@@ -56,7 +57,8 @@ display-tft-6.9inch-720x1440/ # repo root (nav: ../../README_EN.md; sample proje
         ├── osptek.yml
         ├── images/
         ├── datasheets/       # product datasheet + driver/touch IC datasheets
-        └── cad/              # outline/cover CAD
+        ├── cad/              # outline/cover CAD
+        └── adapter/          # adapter board materials + photos
 ```
 
 ## Buy

@@ -44,6 +44,7 @@
 | 规格文档 | [`ST7121P_Datasheet_V1.1.pdf`](./datasheets/ST7121P_Datasheet_V1.1.pdf) |
 | 规格文档 | [`YDP690TE001-V1.pdf`](./datasheets/YDP690TE001-V1.pdf) |
 | CAD 图纸 | [`YDP690TE001-V1.dwg`](./cad/YDP690TE001-V1.dwg) |
+| 转接板资料 | [`未标题-1.png`](./adapter/%E6%9C%AA%E6%A0%87%E9%A2%98-1.png) |
 
 ## 仓库结构
 
@@ -56,7 +57,8 @@ display-tft-6.9inch-720x1440/ # 仓库根（导航见 ../../README.md，示例�
         ├── osptek.yml
         ├── images/
         ├── datasheets/       # 产品规格书 + 驱动/触摸 IC 数据手册
-        └── cad/              # 外形/盖板 CAD
+        ├── cad/              # 外形/盖板 CAD
+        └── adapter/          # 转接板资料 + 转接板图片
 ```
 
 ## 购买链接
