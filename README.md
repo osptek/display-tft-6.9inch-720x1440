@@ -47,6 +47,8 @@
 <table>
   <tr>
     <td align="center" width="50%">
+      <a href="./versions/YDP690TE001-V1/"><img alt="YDP690TE001-V1" src="./versions/YDP690TE001-V1/images/PNG-1.png" width="400" /></a>
+      <br>
       <b>YDP690TE001-V1</b>
       <br>
       <sub>ST7121P · MIPI · 触摸 ST7121P · <a href="./versions/YDP690TE001-V1/">完整资料 →</a></sub>

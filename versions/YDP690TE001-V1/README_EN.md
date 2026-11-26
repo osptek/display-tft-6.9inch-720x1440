@@ -12,6 +12,8 @@
   <img alt="Touch: ST7121P" src="https://img.shields.io/badge/Touch-ST7121P-F39C12?style=flat-square" />
 </p>
 
+<p align="center"><img alt="OSPTEK 6.9&quot; 720×1440 TFT module product image" src="./images/PNG-1.png" width="640" /></p>
+
 ## Contents
 
 - [Specifications](#specifications)
